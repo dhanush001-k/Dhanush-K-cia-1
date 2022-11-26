@@ -1,0 +1,49 @@
+body{
+    background-color:bisque;
+}
+.container{
+    float:center;
+}
+h1{
+    color:rgb(255, 78, 58);
+    font-size:50px;
+    font-family:garamond;
+}
+#box{
+    height:500px;
+    width:500px;
+    border-width: 2px solid yellow;
+}
+label{
+    font-size:20px;
+    font-weight: 550;
+    /* margin-right:130px; */
+}
+#email{
+    height:40px;
+    width:250px;
+    font-size:16px;
+    border-radius: 10px;
+}
+#password{
+    height:40px;
+    width:250px;
+    font-size:16px;
+    border-radius: 10px;
+}
+#username{
+    height:40px;
+    width:250px;
+    font-size:16px;
+    border-radius: 10px;
+}
+button{
+    font-size:15px;
+    border:1px;
+    border-radius: 20px;
+    background-color: rgb(0, 255, 0);
+}
+#button{
+    height:30px;
+    width:70px;
+}
